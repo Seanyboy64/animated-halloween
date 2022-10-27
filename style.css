@@ -314,9 +314,6 @@ body {
           transform: scale(0.8);
       }
   }
-html {
-    background: #ff785a;
-}
 
 /* Bonus */
 html:hover .spider {
